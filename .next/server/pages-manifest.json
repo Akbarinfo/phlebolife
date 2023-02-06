@@ -1,7 +1,15 @@
 {
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/about-us": "pages/about-us.js",
+  "/chronic-diseases/[slug]": "pages/chronic-diseases/[slug].js",
+  "/doctors/[slug]": "pages/doctors/[slug].js",
   "/": "pages/index.js",
-  "/chronic-diseases/[slug]": "pages/chronic-diseases/[slug].js"
+  "/price-list": "pages/price-list.js",
+  "/treatment-services/[slug]": "pages/treatment-services/[slug].js",
+  "/ru/404": "pages/ru/404.html",
+  "/uz/404": "pages/uz/404.html",
+  "/ru/500": "pages/ru/500.html",
+  "/uz/500": "pages/uz/500.html"
 }
